@@ -1,0 +1,9 @@
+total 12
+drwxrwxr-x 2 miguel miguel 4096 dic 16 11:11 dir1
+drwxrwxr-x 2 miguel miguel 4096 dic 16 10:48 dir2
+drwxrwxr-x 2 miguel miguel 4096 dic 16 11:01 dir3
+total 16
+drwxrwxr-x 2 miguel miguel 4096 dic 16 11:11 dir1
+drwxrwxr-x 2 miguel miguel 4096 dic 16 10:48 dir2
+drwxrwxr-x 2 miguel miguel 4096 dic 16 11:01 dir3
+-rw-rw-r-- 1 miguel miguel  159 dic 16 11:21 listado.txt
